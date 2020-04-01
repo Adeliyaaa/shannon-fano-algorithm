@@ -5,7 +5,7 @@
 #include <stdexcept>
 using namespace std;
 
-// class RBTree implements the operations in Red Black Tree
+// class shannonfano implements the Shannon-Fano algorithm, using associative map (Red Black Tree)
 class shannonfano {
 private:
 
